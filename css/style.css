@@ -34,6 +34,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 20px;
     flex-direction: column;
     background: #FDFAF6;
 }
@@ -75,4 +76,24 @@ button{
 
 .player-2 button{
     background: rgb(228, 32, 32);
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Roboto Serif", serif;
+    color: black;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: "Roboto Serif", serif;
+    color: red;
+}
+
+.player-2{
+    display: none;
 }
