@@ -78,6 +78,10 @@ button{
     background: rgb(228, 32, 32);
 }
 
+.player-3 button{
+    background: rgb(46, 190, 46);
+}
+
 h2{
     font-size: 30px;
     font-weight: 500;
@@ -95,5 +99,20 @@ p{
 }
 
 .player-2{
+    display: none;
+}
+
+.player-3{
+    display: none;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: "Roboto Serif", serif;
+    text-transform: uppercase;
+}
+
+.winner{
     display: none;
 }
