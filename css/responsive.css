@@ -1,0 +1,13 @@
+@media (min-width: 0) and (max-width: 575.98px){
+    input {
+    width: 219px;
+    }
+
+    button {
+    width: 50px;
+    }
+
+    h1 {
+    font-size: 44px;
+    }
+}
